@@ -11,5 +11,4 @@ You can find how to setup a USB here: https://dortania.github.io/OpenCore-Instal
 
 You can find the BIOS settings here: https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html#cleaning-up
 
-
-
+**Do not use this EFI for commercial use it is prohibited and if found the responsible person will be sued.**
