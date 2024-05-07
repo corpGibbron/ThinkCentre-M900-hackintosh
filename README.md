@@ -1,4 +1,8 @@
 # ThinkCentre-M900-hackintosh
+
+![lenovo-tc-m900-sff-intel6000-1587705261](https://github.com/corpGibbron/ThinkCentre-M900-hackintosh/assets/99252438/a5511ad8-8f8a-49be-b489-c601e5a6ba82)
+
+
 ThinkCentre M900 Hackintosh EFI.
 This EFI will only work for macOS Monterey OR Big Sur. 
 No support provided for Ventura or Sonoma **Natively**, EFI for Ventura and Sonoma will come out soon!!
