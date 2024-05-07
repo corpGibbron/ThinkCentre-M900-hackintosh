@@ -16,9 +16,24 @@ You can find the BIOS settings here: https://dortania.github.io/OpenCore-Install
 
 # Basic Requirements
 CPU: i5-6400
+
 Storage: SSD 
+
 RAM: 4GB AND ABOVE
-Knowledge about OpenCore
+
+BIOS settings **[This is crucial and if not like shown in the OpenCore Guide you won't be able to boot into your USB]**
+
+# Reccomended Hardware
+CPU: i7-6700 3.40GHZ
+
+Storage: NVME m.2 SSD
+
+RAM: 16GB
+
+Master at OpenCore
+
+# Please don't consider downloading this EFI and using if you're too lazy to build your own!!
+
 
 # Installation 
 
