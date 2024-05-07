@@ -11,6 +11,7 @@ Please have basic information about OpenCore, information about your hardware.
 Do not point a finger at me if you mess up and brick your device I won't be responsible for any data loss or any other type of loss.
 
 You can find how to setup a USB here: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
+
 You can find the BIOS settings here: https://dortania.github.io/OpenCore-Install-Guide/config.plist/skylake.html#cleaning-up
 
 # Basic Requirements
