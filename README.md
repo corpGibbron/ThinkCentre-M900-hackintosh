@@ -1,6 +1,4 @@
 # ThinkCentre-M900-hackintosh
-[![ThinkCentre](https://psref.lenovo.com/syspool/Sys/i_pdf/ThinkCentre_M900_SFF_EMEA.pdf)]()
-[![OC](https://github.com/acidanthera/OpenCorePkg/releases)]()
 [![11](https://img.shields.io/badge/macOS-11-red.svg)]()
 [![12](https://img.shields.io/badge/macOS-12-blueviolet.svg)]()
 [![13](https://img.shields.io/badge/macOS-13-yellow.svg)]()
