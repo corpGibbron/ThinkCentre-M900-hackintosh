@@ -1,4 +1,12 @@
 # ThinkCentre-M900-hackintosh
+[![ThinkCentre-M900-SFF](https://psref.lenovo.com/syspool/Sys/i_pdf/ThinkCentre_M900_SFF_EMEA.pdf)
+[![OC](https://github.com/acidanthera/OpenCorePkg/releases)
+[![11](https://img.shields.io/badge/macOS-11-red.svg)]()
+[![12](https://img.shields.io/badge/macOS-12-blueviolet.svg)]()
+[![13](https://img.shields.io/badge/macOS-13-yellow.svg)]()
+[![14](https://img.shields.io/badge/macOS-14-orange.svg)]()
+[![download](https://img.shields.io/badge/Download-latest-success.svg)](https://github.com/corpGibbron/ThinkCentre-M900-hackintosh/releases/latest)
+
 
 ![lenovo-tc-m900-sff-intel6000-1587705261](https://github.com/corpGibbron/ThinkCentre-M900-hackintosh/assets/99252438/a5511ad8-8f8a-49be-b489-c601e5a6ba82)
 
