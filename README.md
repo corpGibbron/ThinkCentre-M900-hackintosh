@@ -56,20 +56,10 @@ Something like this:
 9. Now that you've erased the disk as APFS you can click on install macOS Monterey and wait until it installs.
 10. Boom! You're ready to setup macOS and use it!
 
+# Credits
+Thanks to:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Apple (macOS)
+Acidanthera (OpenCore, VirtualSMC, Lilu, WhateverGreen and a lot more)
+Dortania (Opencore Install Guide, Opencore Legacy Patcher)
+chris111 (Wireless-USB-Big-Sur-Adapter)
