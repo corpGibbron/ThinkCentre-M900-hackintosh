@@ -58,6 +58,9 @@ Something like this:
 Thanks to:
 
 Apple (macOS)
+
 Acidanthera (OpenCore, VirtualSMC, Lilu, WhateverGreen and a lot more)
+
 Dortania (Opencore Install Guide, Opencore Legacy Patcher)
+
 chris111 (Wireless-USB-Big-Sur-Adapter)
