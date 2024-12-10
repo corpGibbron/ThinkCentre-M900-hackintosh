@@ -1,4 +1,5 @@
 # ThinkCentre-M900-hackintosh
+# This repository is not updated, I cannot guarentee if it will work!
 [![11](https://img.shields.io/badge/macOS-11-red.svg)]()
 [![12](https://img.shields.io/badge/macOS-12-blueviolet.svg)]()
 [![13](https://img.shields.io/badge/macOS-13-yellow.svg)]()
